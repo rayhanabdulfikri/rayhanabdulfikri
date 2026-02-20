@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rayhan+Abdul+Fikri+👋;Web+%26+Data+Builder;Cloud+%7C+Security+%7C+DevOps+Explorer;Open+to+Internship+Opportunities." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rayhan+Abdul+Fikri+%F0%9F%91%8B;Web+%26+Data+Builder;Cloud+%7C+Security+%7C+DevOps+Explorer;Open+to+Internship+Opportunities." alt="Typing SVG" />
 
 <br/>
 
@@ -58,8 +58,7 @@ focus      : Web Development · Data Analytics · Cloud · Cybersecurity
 ## $ cat ./stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayhanabdulfikri&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanabdulfikri&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C" width="40%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rayhanabdulfikri&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="55%"/>
 </p>
 
 ---
