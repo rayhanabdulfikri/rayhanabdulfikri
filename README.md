@@ -21,7 +21,7 @@
 ├─────────────────────────────────────────────────────────┤
 │  name        : Rayhan Abdul Fikri                       │
 │  role        : Informatics Engineering Student          │
-│  university  : STMIK Widya Pratama                      │
+│  university  : Institut Widya Pratama                   │
 │  location    : Banjarnegara, Central Java, Indonesia    │
 │  status      : Actively Seeking Internship              │
 │  focus       : Web Development · Data Analytics · Cloud │
