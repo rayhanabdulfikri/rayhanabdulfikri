@@ -69,44 +69,24 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### 1. 📦 Enterprise Inventory Management System
-> **Problem:** Manual stock tracking causing 30% inventory discrepancies  
-> **Solution:** Real-time automated inventory with multi-role access control
+### 📧 Email Workflow Engine
+> **Problem:** Melamar kerja & magang itu menyita waktu — nulis email satu-satu, nggak tahu mana yang sudah dibalas, dan effort-nya nggak sebanding.  
+> **Solution:** Engine otomasi pengiriman email lamaran yang lengkap dengan monitoring status dan sistem reply tracking.
 
-[![Demo](https://img.shields.io/badge/Live_Demo-00FF9C?style=flat-square&logo=vercel&logoColor=black)](https://your-demo-link.vercel.app)
-[![Repo](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rayhanabdulfikri/inventory-system)
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rayhanabdulfikri/email-workflow-engine)
 
-`PHP` `CodeIgniter` `MySQL` `Docker` `AWS EC2`
+`Python` `SMTP` `IMAP` `MySQL` `Automation`
 
-- ✅ Real-time stock dashboard with low-stock alerts
-- ✅ Role-based access control (Admin, Manager, Staff)
-- ✅ Responsive mobile-first design
-- ✅ Automated daily backup to AWS S3
+**🎯 Core Features:**
+- ✅ **Bulk email automation** — kirim lamaran ke ratusan HRD sekaligus dengan template yang bisa dikustomisasi
+- ✅ **Reply & status monitoring** — lacak email mana yang sudah dibuka, dibalas, atau diabaikan secara real-time
+- ✅ **Time efficiency** — yang biasanya makan 3–4 jam bisa selesai dalam hitungan menit
+- ✅ **Database-ready** — pelamar tinggal fokus cari email HRD atau beli database dari sumber terpercaya, engine langsung kerja
 
----
-
-### 2. 📊 Sales Analytics Dashboard
-> **Problem:** Sales teams struggling with scattered Excel reports  
-> **Solution:** Centralized analytics platform with automated data processing
-
-[![Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://your-dashboard-link.streamlit.app)
-[![Repo](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rayhanabdulfikri/sales-analytics)
-
-`Python` `Pandas` `Streamlit` `PostgreSQL` `Plotly`
-
-- ✅ Interactive charts with drill-down capabilities
-- ✅ CSV/Excel auto-import and data cleaning pipeline
-- ✅ Sales forecasting using moving averages
-- ✅ Automated PDF report generation
-
----
-
-### 3. 🔐 Secure File Sharing Platform *(In Development)*
-> Focus: End-to-end encryption with audit logging for compliance
-
-`Node.js` `Express` `AWS S3` `Docker` `JWT Auth`
+**💡 Use Case:**  
+Cocok buat mahasiswa, fresh graduate, atau siapapun yang lagi aktif hunting internship/kerja dan capek kirim email manual satu per satu.
 
 ---
 
