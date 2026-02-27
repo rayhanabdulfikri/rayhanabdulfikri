@@ -73,9 +73,9 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rayhanabdulfikri&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=rayhanabdulfikri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00FF9C&title_color=00FF9C" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rayhanabdulfikri&theme=tokyonight" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanabdulfikri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C" width="40%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rayhanabdulfikri&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=00FF9C&area=true" width="98%"/>
 
 </div>
 
