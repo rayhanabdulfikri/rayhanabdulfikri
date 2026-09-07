@@ -1,26 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9C,100:0D1117&height=180&section=header&text=RAYHAN%20ABDUL%20FIKRI&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Data%20Engineering%20%7C%20Generative%20AI%20%7C%20Data%20Systems&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090D16,50:0A2540,100:00D26A&height=180&section=header&text=RAYHAN%20ABDUL%20FIKRI&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Data%20Engineering%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Cloud%20Systems&descAlignY=64&descSize=16&descColor=00FF9C" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayhan-abdul-fikri/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rayhanabdulfikri)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rayhanabdulf10@gmail.com)
-[![Status](https://img.shields.io/badge/Focus-Data%20Engineering%20%26%20GenAI-00FF9C?style=flat-square&labelColor=0D1117)](https://github.com/rayhanabdulfikri)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=1000&color=00FF9C&center=true&vCenter=true&width=550&lines=Building+Reliable+Data+Pipelines;Orchestrating+Grounded+LLM+Workflows;Transforming+Raw+Data+into+Intelligence" alt="Typing SVG" />
+</p>
 
-<br/>
-
-> *“Architecting reliable pipelines, grounding LLMs with real context, and turning raw data into production assets.”*
+<p align="center">
+  <a href="https://www.linkedin.com/in/rayhan-abdul-fikri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/rayhanabdulfikri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:rayhanabdulf10@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 </div>
-
----
-
-### ⚡ System Profile
-
-```yaml
-user: rayhanabdulfikri
-role: Undergraduate Student in Information Technology
-primary_domain: Data Engineering
-secondary_domain: Generative AI & Data Systems
-mindset: "Build -> Measure -> Automate -> Improve"
-current_target: Data Platform / Data Engineering Internship
