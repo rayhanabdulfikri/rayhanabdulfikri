@@ -1,25 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:222222&height=180&section=header&text=Rayhan%20Abdul%20Fikri&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Data%20Platform%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Infrastructure&descAlignY=64&descSize=15&descColor=aaaaaa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f19,100:1e293b&height=190&section=header&text=Rayhan%20Abdul%20Fikri&fontSize=40&fontColor=f8fafc&fontAlignY=42&desc=Data%20Platform%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20AI%20Infrastructure&descAlignY=64&descSize=15&descColor=94a3b8" width="100%"/>
 
 <br/>
 
-[![Status](https://img.shields.io/badge/System-ONLINE-222222?style=flat-square&labelColor=333333&color=aaaaaa)](https://github.com/rayhanabdulfikri)
-[![Focus](https://img.shields.io/badge/Focus-Data%20Engineering%20%26%20GenAI-222222?style=flat-square&labelColor=333333&color=aaaaaa)](https://github.com/rayhanabdulfikri)
-[![Location](https://img.shields.io/badge/Based-Indonesia-222222?style=flat-square&labelColor=333333&color=aaaaaa&logo=google-maps&logoColor=aaaaaa)](https://github.com/rayhanabdulfikri)
+[![Profile](https://img.shields.io/badge/System-ONLINE-0f172a?style=for-the-badge&logo=statuspage&logoColor=22c55e&labelColor=020617)](https://github.com/rayhanabdulfikri)
+[![Focus](https://img.shields.io/badge/Specialization-Lakehouse%20%26%20Streaming-0f172a?style=for-the-badge&logo=apache-spark&logoColor=38bdf8&labelColor=020617)](https://github.com/rayhanabdulfikri)
+[![CI/CD](https://img.shields.io/badge/DataOps-Deterministic-0f172a?style=for-the-badge&logo=githubactions&logoColor=a855f7&labelColor=020617)](https://github.com/rayhanabdulfikri)
+[![Location](https://img.shields.io/badge/Based-Indonesia-0f172a?style=for-the-badge&logo=google-maps&logoColor=f43f5e&labelColor=020617)](https://github.com/rayhanabdulfikri)
 
 <br/>
 
-> Architecting reliable data infrastructure, grounding LLMs with strict context, and optimizing analytical systems.
+> **Engineering Philosophy:** *Architecting high-throughput data backbones, enforcing strict schemas over silent corruption, and grounding AI systems with deterministic data engineering.*
 
 </div>
 
 ---
 
-### ⚙️ Engineering Principles
+### 🏛️ Engineering Tenets
 
 ```yaml
-idempotency: "Ensure pipelines recover from failure without state drift."
-schema-contract: "Define strict data boundaries before implementation."
-grounded-ai: "Treat LLM outputs as deterministic functions with validation."
-observability: "Measure throughput, latency, and cost at every stage."
+system:
+  idempotency: "Pipelines must be deterministically replayable without side effects."
+  data-contracts: "Prevent schema drift upstream before downstream analytical decay."
+  runtime-resilience: "Fail fast with circuit breakers, alert actionable states, avoid silent drops."
+  grounded-ai: "Treat LLMs as untrusted clients; enforce pydantic bounds, schema guards, and lineage."
